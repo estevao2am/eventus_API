@@ -88,6 +88,11 @@
   dependencies:
     axios "*"
 
+"@types/bcryptjs@^2.4.2":
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/@types/bcryptjs/-/bcryptjs-2.4.2.tgz#e3530eac9dd136bfdfb0e43df2c4c5ce1f77dfae"
+  integrity sha512-LiMQ6EOPob/4yUL66SZzu6Yh77cbzJFYll+ZfaPiPPFswtIlA/Fs1MzdKYA7JApHU49zQTbJGX3PDmCpIdDBRQ==
+
 "@types/body-parser@*":
   version "1.19.2"
   resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.19.2.tgz#aea2059e28b7658639081347ac4fab3de166e6f0"
@@ -924,6 +929,11 @@ negotiator@0.6.3:
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
+
+nodemailer@^6.9.2:
+  version "6.9.2"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.9.2.tgz#b79051811edd52c2436ad1c6aed2dc45b9c9cf1f"
+  integrity sha512-4+TYaa/e1nIxQfyw/WzNPYTEZ5OvHIDEnmjs4LPmIfccPQN+2CYKmGHjWixn/chzD3bmUTu5FMfpltizMxqzdg==
 
 nodemon@^2.0.22:
   version "2.0.22"

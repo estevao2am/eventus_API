@@ -33,4 +33,6 @@ model Category {
   name        String @unique
   description String
   users       User[]
+  created_at   DateTime @default(now())
+  update_at    DateTime @updatedAt
 }
